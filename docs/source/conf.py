@@ -36,9 +36,9 @@ github_doc_root = 'https://github.com/rtfd/recommonmark/tree/master/doc/'
 
 # -- Project information -----------------------------------------------------
 
-project = 'gateway'
-copyright = f'2019–{datetime.now().year}, Finovy'
-author = 'Finovy'
+project = 'pve open api'
+copyright = f'2019–{datetime.now().year}, test'
+author = 'test'
 version = get_version_string()
 
 templates_path = ['_templates']
